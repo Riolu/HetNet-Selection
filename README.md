@@ -5,11 +5,14 @@ The topic of our project is "Dynamics of General Network Selection Games in Hete
 We apply the concept of game theory to this network selection problem.
 
 In our scenerio, there are exactly two games. Evolutionary games are formed in each area, 
-i.e. network users located in the same area will reach an evolutionary equilibrium eventually.
-Then, user groups in different areas will compete for resources, thus forming a non-cooperative game.
-The nash equilibrium point achieved in this non-cooperative game is our target in this problem.
+i.e. network users located in the same area will reach an evolutionary equilibrium eventually. 
+Then, users in the same area collaborate with each other (i.e., form a group) to compete for 
+the bandwidth with other groups of users in other areas, thus forming a non-cooperative game.
+This non-cooperative game formulation is based on the group behavior of the users for network selection, 
+while the evolutionary game formulaton is based on the individual behavior of the users.
 
-The result of our simulations are shown. 
+The nash equilibrium point achieved in the non-cooperative game is our target in this problem. 
+The result of our simulations are shown below. 
 
 <div align=center>
 
